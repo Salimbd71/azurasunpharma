@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "id": "001",
+      "title": "Apps Update Notice",
+      "details": "Apps will development unter constraction."
+    },
+    {
+      "id": "002",
+      "title": "New Exam",
+      "details": "Join our besic exam"
+    }
+  ]
+}
